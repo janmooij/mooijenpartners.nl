@@ -9,9 +9,14 @@ const ActiveLink = ({ children, router, href, type }) => {
   }
 
   return (
-    <a href={href} onClick={handleClick} className={`${type}__navigation-link${isActive ? ' _is_active' : ''}`}>
-      {children}
-    </a>
+    type ?
+      <a href={href} onClick={handleClick} className={`${type}__navigation-link${isActive ? ' _is_active' : ''}`}>
+        {children}
+      </a>
+      :
+      <a href={href} onClick={handleClick}>
+        {children}
+      </a>
   )
 }
 

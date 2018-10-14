@@ -4,7 +4,7 @@ import LogoSlider from '../components/LogoSlider'
 import Header from '../components/layout/Header'
 import Footer from '../components/layout/Footer'
 import Content from '../components/layout/Content'
-import '../assets/styles.scss'
+import '../static/styles.scss'
 
 export default () => (
   <Layout title="Downloads">
