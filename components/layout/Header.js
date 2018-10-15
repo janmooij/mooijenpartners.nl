@@ -10,6 +10,7 @@ export default () => (
           width="275.16"
           className="header__svg"
           version="1.1">
+          <title>Logo Mooij en Partners</title>
           <defs
             id="defs6"/>
           <g

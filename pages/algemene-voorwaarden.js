@@ -20,7 +20,7 @@ export default () => (
         <React.Fragment>
           <h1>Algemene voorwaarden</h1>
           <p>Download onze algemene voorwaarden hier als PDF bestand.</p>
-          <p>→ <a href="/static/algemene_voorwaarden_mooijenpartners.pdf" target="_blank">Algemene Voorwaarden Mooij en Partners (PDF)</a></p>
+          <p>→ <a href="/static/algemene_voorwaarden_mooijenpartners.pdf" target="_blank" rel="noopener">Algemene Voorwaarden Mooij en Partners (PDF)</a></p>
         </React.Fragment>
       }
     />
