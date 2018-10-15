@@ -21,6 +21,7 @@ export default class Layout extends Component {
           <meta name="viewport" content="width=device-width, initial-scale=1"/>
           <meta name="theme-color" content="#A29061"/>
           <meta name="keywords" content="Mooij, assurantiebedrijf, assurantie, verzekeringen"/>
+          <meta name="description" content="Assurantiebedrijf Mooij en Partners"/>
           <meta property="og:url" content="https://www.mooijenpartners.nl"/>
           <meta property="og:title" content={`${this.props.title} - Assurantiebedrijf Mooij en Partners`}/>
           <meta property="og:description" content="Assurantiebedrijf Mooij en Partners"/>
