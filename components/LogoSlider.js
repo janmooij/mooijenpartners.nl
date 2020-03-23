@@ -11,7 +11,7 @@ export default () => (
       <img width="160" src="/static/afm.png" alt="AFM"/>
     </div>
     <div className="logos__item">
-      <img src="/static/raia.png" alt="RAIA"/>
+      <img src="/static/rmia.png" alt="RMIA"/>
     </div>
     <div className="logos__item">
       <svg xmlns="http://www.w3.org/2000/svg" width="241" height="64" viewBox="0 0 241 64">

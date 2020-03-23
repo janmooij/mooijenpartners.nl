@@ -20,7 +20,7 @@ export default () => (
         <React.Fragment>
           <h1>Kantoorprofiel Assurantiebedrijf Mooij en Partners</h1>
           <p>Assurantiebedrijf Mooij en Partners is actief op het gebied van verzekeren. In 2004 is de inschrijving verkregen in
-            het personenregister Registeradviseur in Assurantiën (RAIA).</p>
+            het personenregister Registermakelaar in Assurantiën (RMIA).</p>
           <p>Door jarenlange praktijkervaring en het stellen van hoge eisen aan opleidingen (scholing en permanente educatie)
             kunnen wij u van up-to-date advies voorzien over zowel persoonlijke- als bedrijfsmatige situaties. Hierbij achten wij
             het van belang dat uw risico’s zodanig in beeld gebracht worden dat u in geval van calamiteiten precies weet waar u

@@ -151,11 +151,6 @@ export default () => (
           </g>
         </svg>
       </a>
-      <address className="header__contact-information">
-        <span>Gerard Mooij</span>
-        <span>'t Stet 5</span>
-        <span>1921 BT Akersloot</span>
-      </address>
     </div>
     <div className="header__navigation">
       <div className="header__navigation-list">
